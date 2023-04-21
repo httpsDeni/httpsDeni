@@ -2,11 +2,11 @@
 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/denitrepak777)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deni-trepak-5a2803261/)
-[![Portifólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://deni-portifolio.netlify.app/)
+[![Portifólio](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]([https://twitch.tv/fragabr](https://deni-portifolio.netlify.app/))
 
 ![Deni GitHub stats](https://github-readme-stats.vercel.app/api?username=httpsDeni&show_icons=true&theme=tokyonight&count_private=true)
 
-## Tecnologias que uso diariamente.
+## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
