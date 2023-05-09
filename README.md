@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deni-trepak-5a2803261/)
 [![Portifólio](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://deni-portifolio.netlify.app/)
 
-![Deni GitHub stats](https://github-readme-stats.vercel.app/api?username=httpsDeni&show_icons=true&theme=tokyonight&count_private=true)
+<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=httpsDeni&show_icons=true&theme=react&line_height=40&hide=css"/></a>
 
 ## Tecnologias que uso diariamente.
 
